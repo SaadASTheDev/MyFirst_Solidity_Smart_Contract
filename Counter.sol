@@ -21,3 +21,4 @@ contract Counter {
 }
 
 
+//Counts using buttons

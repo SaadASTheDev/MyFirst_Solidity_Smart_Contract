@@ -29,3 +29,4 @@ contract Calculator{
         Answer = 0;
     }
 }
+//Calculaor (note: Can be more user friendly!)
